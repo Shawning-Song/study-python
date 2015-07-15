@@ -14,6 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# ingore some floders
+.idea
+
 # Windows shortcuts
 *.lnk
 
